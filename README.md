@@ -7,9 +7,7 @@ This project introduces an AI-based solution to automatically adjust the focus o
 - **Model Architecture:** EfficientNetV2-s
 - **Focus Classification:** Ranges from 1 (least focused) to 5 (most focused)
 - **Model Weights:** Available in the file `53_28.02.pth`
-
-The custom dataset used for training is accessible for download via the following [Google Drive link](https://drive.google.com/file/d/1ozBqvRwbN_lpdluTA-vPwruiAeHo07ZK/view?usp=drive_link).
-
+  
 ## Prerequisites
 
 For the AI autofocus system to function, the digital microscope must meet the following requirements:
