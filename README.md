@@ -16,7 +16,7 @@ For the AI autofocus system to function, the digital microscope must meet the fo
 
 - An **Ethernet port** for network communication.
 - An **open interface** for adjusting the z-axis motor.
-- A **Linux-based operating system** capable of utilizing `.service` files for automatic startup. *Operating systems meeting the same requirementes can also be used, however, only linux has been tested*.
+- A **Linux-based operating system** capable of utilizing `.service` files for automatic startup. *Operating systems meeting the same requirementes can also be used however, only Linux has been tested*.
 
 ## Setup Process
 
